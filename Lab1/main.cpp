@@ -7,8 +7,8 @@ using namespace std;
 
 int main()
 {
-    freopen("test1000","r",stdin);  
-    freopen("out1000.txt","w",stdout);
+    freopen("test0","r",stdin);  
+    freopen("out.txt","w",stdout);
     char puzzle[128];
     int board[N];
     while (scanf("%s", puzzle) != EOF)
