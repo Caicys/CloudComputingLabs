@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    freopen("test0","r",stdin);  
+    freopen("test.txt","r",stdin);  
     freopen("out.txt","w",stdout);
     char puzzle[128];
     int board[N];
