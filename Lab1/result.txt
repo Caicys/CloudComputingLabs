@@ -1,0 +1,21 @@
+test(hard)
+real	0m0.871s
+user	0m0.848s
+sys	0m0.000s
+
+test1000
+real	0m0.095s
+user	0m0.084s
+sys	0m0.000s
+
+test.txt
+real	0m0.162s
+user	0m0.152s
+sys	0m0.000s
+
+test0
+real	0m0.018s
+user	0m0.012s
+sys	0m0.000s
+
+
